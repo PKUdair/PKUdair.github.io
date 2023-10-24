@@ -21,6 +21,32 @@ nav_order: 7
     onclick="changeBibliography('physRevBib')">
         ML system
     </button>
+    </button>
+    <button style="display: inline-block; background-color: #ffdead; color: #FFFFFF; border-radius: 5px; outline: none;" 
+    onclick="changeBibliography('physRevBib')">
+        Graph ML
+    </button>
+    </button>
+    <button style="display: inline-block; background-color: #e6e6fa; color: #FFFFFF; border-radius: 5px; outline: none;" 
+    onclick="changeBibliography('physRevBib')">
+        AI4science
+    </button>
+    </button>
+    <button style="display: inline-block; background-color: #98fb98; color: #FFFFFF; border-radius: 5px; outline: none;" 
+    onclick="changeBibliography('physRevBib')">
+        AI4industry
+    </button>
+    </button>
+    <button style="display: inline-block; background-color: #ffe1ff; color: #FFFFFF; border-radius: 5px; outline: none;" 
+    onclick="changeBibliography('physRevBib')">
+        Database
+    </button>
+    </button>
+    <button style="display: inline-block; background-color: #cd0000; color: #FFFFFF; border-radius: 5px; outline: none;" 
+    onclick="changeBibliography('physRevBib')">
+        AutoML
+    </button>
+    
     <div id="defaultBib" style="display:block;">
         {% bibliography -f {{ site.scholar.bibliography_default }} %}
     </div>
