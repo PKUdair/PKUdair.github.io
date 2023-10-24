@@ -6,7 +6,7 @@ description: Professor
 img: assets/img/cuibin.jpg
 importance: 1
 category: Professors
-redirect: "https://cuibinpku.github.io/index.html"
+redirect: "https://cuibinpku.github.io"
 related_publications: 
 ---
 
