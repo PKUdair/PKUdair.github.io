@@ -19,7 +19,7 @@ nav_order: 7
     </button>
     <button style="display: inline-block; background-color: #00369f; color: #FFFFFF; border-radius: 5px; outline: none;" 
     onclick="changeBibliography('physRevBib')">
-        PhysRev
+        ML system
     </button>
     <div id="defaultBib" style="display:block;">
         {% bibliography -f {{ site.scholar.bibliography_default }} %}
