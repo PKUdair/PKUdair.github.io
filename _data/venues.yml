@@ -4,3 +4,17 @@
 "Data-centric ML":
   color: "#89009F"
 
+"Graph ML":
+  color: "#ffdead"
+
+"AI4science":
+  color: "#e6e6fa"
+
+"AI4industry":
+  color: "#98fb98"
+
+"Database":
+  color: "#ffe1ff"
+
+"AutoML":
+  color: "#cd0000"
