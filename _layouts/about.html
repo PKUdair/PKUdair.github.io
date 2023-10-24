@@ -47,6 +47,12 @@ layout: default
             {%- include news.html limit=true %}
           {%- endif %}
 
+          <!-- Projects -->
+          {% if page.projects -%}
+            <h2><a href="{{ '/projects/' | relative_url }}" style="color: inherit;">Projects</a></h2>
+            {%- include projects.html %}
+          {%- endif %}          
+
           <!-- Latest posts -->
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
@@ -72,6 +78,19 @@ layout: default
 
             </div>
           {%- endif %}
+
+          <style>
+            #map-container {
+              width: 300px; /* 设置地图容器的宽度 */
+              margin: 0 auto; /* 设置左右外边距为 auto，实现居中 */
+              padding: 30px; /* 添加内边距，增加额外的空白 */
+            }
+          </style>
+          
+          <div id="map-container">
+            <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Jnbw7t2pQU8JO0MGWwsmVwHUHpB1jbhJBWmqYIE81wA&cl=ffffff&w=a"></script>
+          </div>
+          
         </article>
 
 </div>
