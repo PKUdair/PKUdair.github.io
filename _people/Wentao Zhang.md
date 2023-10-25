@@ -5,7 +5,7 @@ mail: wentao.zhang@pku.edu.cn
 description: Assistant Professor
 img: assets/img/wentao.png
 importance: 1
-category: Professors
+category: Faculties
 redirect: "https://zwt233.github.io"
 related_publications: 
 ---
