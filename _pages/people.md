@@ -5,7 +5,7 @@ permalink: /people/
 description: A growing collection of your cool peoples.
 nav: true
 nav_order: 6
-display_categories: [Professors, Postdocs, Students]
+display_categories: [Professors, PhD Students, Master Students, Undergraduate Students]
 horizontal: false
 ---
 
