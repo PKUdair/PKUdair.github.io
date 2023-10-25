@@ -2,10 +2,10 @@
 layout: page
 name: Bin Cui
 mail: bin.cui@pku.edu.cn
-description: Professor
+description: Faculties
 img: assets/img/cuibin.jpg
 importance: 1
-category: Professors
+category: Faculties
 redirect: "https://cuibinpku.github.io"
 related_publications: 
 ---
