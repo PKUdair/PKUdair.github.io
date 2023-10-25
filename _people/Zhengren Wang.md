@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Zhengren Wang
-mail: test2@test
+mail: start in 2023
 description: Master Student
 img: assets/img/DAIR/wangzhenren.jpg
 importance: 4
