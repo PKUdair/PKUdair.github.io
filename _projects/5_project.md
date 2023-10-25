@@ -5,7 +5,7 @@ description: An efficient open-source system for AutoML
 img: assets/img/projects/mindware.jpg
 importance: 5
 redirect: "https://github.com/PKU-DAIR/mindware"
-category: Paper Codes
+category: System
 ---
 
 Every project has a beautiful feature showcase page.
