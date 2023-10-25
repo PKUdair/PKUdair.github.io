@@ -6,7 +6,7 @@ subtitle: Data and Intelligence Research in PKU
 
 profile:
   align: right
-  image: cuinin.jpg
+  image: cuibin.jpg
   position: Head of the DAIR group
   email: bin.cui@pku.edu.cn
   image_circular: false # crops the image to make it circular
