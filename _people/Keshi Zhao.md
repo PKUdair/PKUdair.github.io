@@ -3,9 +3,9 @@ layout: page
 name: Keshi Zhao
 mail: test2@test
 description: Master Student
-img: assets/img/12.jpg
+img: assets/img/DAIR/zhaokeshi.jpg
 importance: 3
-category: Students
+category: Master Students
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
