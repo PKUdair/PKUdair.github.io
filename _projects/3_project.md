@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hetu
-description: A high-performance distributed deep learning system.
+description: A high-performance distributed deep learning system
 img: assets/img/projects/hetu.jpg
 importance: 3
 category: System
