@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-description: A growing collection of your cool peoples.
+description: Including 30+ PhDs, Masters, and Undergraduate students.
 nav: true
 nav_order: 6
 display_categories: [Professors, PhD Students, Master Students, Undergraduate Students]
