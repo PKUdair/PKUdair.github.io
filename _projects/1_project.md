@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Angel
-description: A high-performance distributed machine learning and graph computing platform
+description: A high-performance distributed machine learning and graph computing platform ![GitHub Repo stars](https://img.shields.io/github/stars/Angel-ML/Angel?style=social)
 img: assets/img/projects/angel.jpg
 importance: 1
 category: System
