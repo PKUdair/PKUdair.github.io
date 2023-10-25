@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: GAMLP
+description: A Scalable Graph-based MLP model [SIGKDD 2022]
+img: assets/img/projects/mindware.jpg
+importance: 1
+redirect: "https://github.com/PKU-DAIR/GAMLP"
 category: Paper Codes
 ---
 
