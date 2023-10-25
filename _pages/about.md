@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='/team/'>Affiliations</a>. <a href='#'>Address</a>. Contacts. Moto. Etc.
+subtitle: Data and Intelligence Research in PKU
 
 profile:
   align: right
-  image: wentao.png
+  image: cuinin.jpg
   position: Head of the DAIR group
-  email: wentao.zhang@pku.edu.cn
+  email: bin.cui@pku.edu.cn
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="display:block;">Prof. Dr. Wentao Zhang</p> 
@@ -29,9 +29,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome to the DAIR Group!
-We are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/){: target="_blank"} at [Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
-Together we enjoy working on **Data-centric Machine Learning**, **Graph Machine Learning**, 
-**Machine Learning Systems**, and **Interdisciplinary Applications**.
+We are part of the [School of Computer Science](https://cs.pku.edu.cn/){: target="_blank"} at [Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
+Together we enjoy working on **Data-centric Machine Learning**, **AutoML**, 
+**Machine Learning Systems**, and **Database**.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
