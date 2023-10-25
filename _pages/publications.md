@@ -71,12 +71,11 @@ nav_order: 7
 <script>
     var button_choice = 'defaultBib';
     function changeBibliography(choice) {
-        // 根据需要修改 site.scholar.bibliography 的值
         if (choice === 'dataCentricBib') {
             document.getElementById("dataCentricBib").style.display = "block"; // 显示选中元素
             // 其余均隐藏
             document.getElementById("defaultBib").style.display = "none";
-            document.getElementById("MLsystmeBib").style.display = "none";
+            document.getElementById("MLsystemBib").style.display = "none";
             document.getElementById("GraphMLBib").style.display = "none";
             document.getElementById("AI4scienceBib").style.display = "none";
             document.getElementById("AI4industryBib").style.display = "none";
