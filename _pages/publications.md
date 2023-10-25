@@ -108,6 +108,6 @@ nav_order: 7
         document.getElementById("DatabaseBib").style.display = "none";
         document.getElementById("AutoMLBib").style.display = "none";
         // 显示选中元素
-        document.getElementById(choice).style.display = "block";
+        document.getElementById("AutoMLBib").style.display = "block";
     }
 </script>
