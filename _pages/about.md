@@ -15,8 +15,8 @@ profile:
         PKU, Beijing, China
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="display:block;">[Prof. Dr. Bin Cui](https://cuibinpku.github.io/)</p> 
-    <p style="display:block;">Head of DAIR group</p>
+    <p style="display:block;">Prof. Dr. Bin Cui</p> 
+    <p style="display:block;">Head of DAIR Lab</p>
     <a style="display:block;" href="mailto:{{ site.email | encode_email }}">
       <i class="fas fa-envelope"></i> bin.cui@pku.edu.cn</a>
     <p> </p>
@@ -36,6 +36,6 @@ We are part of the [School of Computer Science](https://cs.pku.edu.cn/){: target
 Together we enjoy working on **Data-centric Machine Learning**, **AutoML**, 
 **Machine Learning Systems**, and **Database**.
 
-Bin Cui leads the DAIR Lab, and he is a professor and Vice Dean in School of CS at Peking University. He obtained his B.Sc. from Xi'an Jiaotong University (Pilot Class) in 1996, and Ph.D. from National University of Singapore in 2004 respectively. From 2004 to 2006, he worked as a Research Fellow in Singapore-MIT Alliance. His research interests include database system architectures, query and index techniques, big data management and mining. He has served in the Technical Program Committee of various international conferences including SIGMOD, VLDB, ICDE and KDD, and as Area Chair of ICDE 2011&2018, Demo Co-Chair of ICDE 2014, Area Chair of VLDB 2014, PC Co-Chair of APWeb 2015, WAIM 2016 and DASFAA 2020. He is serving as Vice Chair of Techical Commettee on Database China Computer Federation (CCF) and Trustee Board Member of VLDB Endowment, is also in the Editorial Board of Distributed and Parallel Databases, Journal of Computer Science and Technology, and SCIENCE CHINA Information Sciences, and was an assocaite editor of IEEE Transactions on Knowledge and Data Engineering (TKDE) and VLDB Journal. He was awarded Microsoft Young Professorship award (MSRA 2008), CCF Young Scientist award (2009), Second Prize of Natural Science Award of MOE China (2014), and appointed as Cheung Kong distinguished Professor by MOE in 2016.
+DAIR is a research lab led by Professor [Cui Bin](https://cuibinpku.github.io/) from the School of Computer Science at Peking University. The lab has made significant contributions to theoretical and technological innovation, system research and development, and has published over 100 academic papers in top international academic conferences and journals1. Additionally, it has undertaken multiple open-source projects. The lab has been recognized with numerous honors including CCF Youbo, ACM China Youbo, Peking University Youbo, Microsoft Scholar, Apple Scholarship, Google Fellowship, and more. PKU-DAIR Lab has also established fruitful collaborations with well-known enterprises such as Tencent, Alibaba, Apple, Microsoft, Baidu, Kwai, ZTE and others to solve practical problems and transform scientific research achievements.
 
-<span style="color:red"> **We have opening positions for Tenure-track faculties and Post-Docs. Interested persons please contact me directly.** </span>
+**<font color=red>We have opening positions for Tenure-track faculties, Post-Docs and Interns. Interested persons please contact Prof.Bin Cui directly.!</font>**
