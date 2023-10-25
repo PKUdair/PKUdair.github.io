@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: System
-category: work
+title: Hetu
+description: A high-performance distributed deep learning system.
+img: assets/img/projects/hetu.jpg
+importance: 3
+category: System
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
