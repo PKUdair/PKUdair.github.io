@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: SGL
+description: A scalable graph learning system for extremely large graphs.
+img: assets/img/projects/sgl.jpg
+importance: 4
 category: System
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
