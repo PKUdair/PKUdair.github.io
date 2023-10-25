@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Angel ![GitHub Repo stars](https://img.shields.io/github/stars/Angel-ML/Angel?style=social)
+title: Angel 
 description: A high-performance distributed machine learning and graph computing platform 
 img: assets/img/projects/angel.jpg
 importance: 1
