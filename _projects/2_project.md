@@ -5,6 +5,7 @@ description: An efficient system designed for generalized black-box optimization
 img: assets/img/projects/openbox.jpg
 importance: 2
 category: System
+redirect: "https://github.com/PKU-DAIR/open-box"
 giscus_comments: false
 ---
 
