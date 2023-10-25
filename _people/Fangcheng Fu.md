@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Fangcheng Fu
-mail: ccchengf@pku.edu.cn
+mail: ccchengff@pku.edu.cn
 description: Boya Postdoc
 img: assets/img/DAIR/fufangcheng.jpg
 importance: 3
