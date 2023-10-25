@@ -5,7 +5,7 @@ mail: test3@test
 description: Master Student
 img: assets/img/ytgeng.jpg
 importance: 2
-category: Students
+category: Master Students
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
