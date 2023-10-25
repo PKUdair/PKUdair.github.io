@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenBox
-description: An efficient system designed for generalized black-box optimization (BBO).
+description: An efficient system designed for generalized black-box optimization
 img: assets/img/projects/openbox.jpg
 importance: 2
 category: System
