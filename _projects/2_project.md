@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: OpenBox
+description: An efficient system designed for generalized black-box optimization (BBO).
+img: assets/img/projects/openbox.jpg
 importance: 2
 category: System
 giscus_comments: false
