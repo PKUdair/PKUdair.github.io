@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Open-source systems and paper codes in DAIR lab.
 nav: true
 nav_order: 8
 display_categories: [System, Paper Codes]
