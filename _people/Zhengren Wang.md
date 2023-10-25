@@ -3,9 +3,9 @@ layout: page
 name: Zhengren Wang
 mail: test2@test
 description: Master Student
-img: assets/img/12.jpg
+img: assets/img/DAIR/wangzhenren.jpg
 importance: 4
-category: Students
+category: Master Students
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
