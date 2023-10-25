@@ -57,7 +57,7 @@ nav_order: 7
     <div id="AI4scienceBib" style="display:none;">
         {% bibliography -f {{ site.scholar.bibliography_AI4science }} %}
     </div>
-    <div id="Ai4industryBib" style="display:none;">
+    <div id="AI4industryBib" style="display:none;">
         {% bibliography -f {{ site.scholar.bibliography_AI4industry }} %}
     </div>
     <div id="DatabaseBib" style="display:none;">
