@@ -18,27 +18,27 @@ nav_order: 7
         Data-centric ML
     </button>
     <button style="display: inline-block; background-color: #00369f; color: #FFFFFF; border-radius: 5px; outline: none;" 
-    onclick="changeBibliography('physRevBib')">
+    onclick="changeBibliography('MLsystemBib')">
         ML system
     </button>
     <button style="display: inline-block; background-color: #ffdead; color: #FFFFFF; border-radius: 5px; outline: none;" 
-    onclick="changeBibliography('physRevBib')">
+    onclick="changeBibliography('GraphMLBib')">
         Graph ML
     </button>
     <button style="display: inline-block; background-color: #e6e6fa; color: #FFFFFF; border-radius: 5px; outline: none;" 
-    onclick="changeBibliography('physRevBib')">
+    onclick="changeBibliography('AI4scienceBib')">
         AI4science
     </button>
     <button style="display: inline-block; background-color: #98fb98; color: #FFFFFF; border-radius: 5px; outline: none;" 
-    onclick="changeBibliography('physRevBib')">
+    onclick="changeBibliography('AI4industryBib')">
         AI4industry
     </button>
     <button style="display: inline-block; background-color: #ffe1ff; color: #FFFFFF; border-radius: 5px; outline: none;" 
-    onclick="changeBibliography('physRevBib')">
+    onclick="changeBibliography('DatabaseBib')">
         Database
     </button>
     <button style="display: inline-block; background-color: #cd0000; color: #FFFFFF; border-radius: 5px; outline: none;" 
-    onclick="changeBibliography('physRevBib')">
+    onclick="changeBibliography('AutoMLBib')">
         AutoML
     </button>
     
@@ -48,12 +48,28 @@ nav_order: 7
     <div id="dataCentricBib" style="display:none;">
         {% bibliography -f {{ site.scholar.bibliography_dataCentric }} %}
     </div>
-    <div id="physRevBib" style="display:none;">
-        {% bibliography -f {{ site.scholar.bibliography_physRev }} %}
+    <div id="MLsystemBib" style="display:none;">
+        {% bibliography -f {{ site.scholar.bibliography_MLsystem }} %}
+    </div>
+    <div id="GraphMLBib" style="display:none;">
+        {% bibliography -f {{ site.scholar.bibliography_GraphML }} %}
+    </div>
+    <div id="AI4scienceBib" style="display:none;">
+        {% bibliography -f {{ site.scholar.bibliography_AI4science }} %}
+    </div>
+    <div id="Ai4industryBib" style="display:none;">
+        {% bibliography -f {{ site.scholar.bibliography_AI4industry }} %}
+    </div>
+    <div id="DatabaseBib" style="display:none;">
+        {% bibliography -f {{ site.scholar.bibliography_Database }} %}
+    </div>
+    <div id="AutoMLBib" style="display:none;">
+        {% bibliography -f {{ site.scholar.bibliography_AutoML }} %}
     </div>
 </div>
 
 <script>
+    /*
     var button_choice = 'defaultBib';
     function changeBibliography(choice) {
         // 根据需要修改 site.scholar.bibliography 的值
@@ -61,7 +77,9 @@ nav_order: 7
             document.getElementById("dataCentricBib").style.display = "block"; // 显示选中元素
             // 其余均隐藏
             document.getElementById("defaultBib").style.display = "none";
-            document.getElementById("physRevBib").style.display = "none";
+            document.getElementById("MLsystmeBib").style.display = "none";
+            document.getElementById("GraphMLBib").style.display = "none";
+            document.getElementById("AI4scienceBib").style.display = "none";
         } else if (choice === 'physRevBib') {
             document.getElementById("physRevBib").style.display = "block"; // 显示选中元素
             // 其余均隐藏
@@ -73,5 +91,23 @@ nav_order: 7
             document.getElementById("physRevBib").style.display = "none";
             document.getElementById("dataCentricBib").style.display = "none";
         }
+    }
+    */
+</script>
+
+<script>
+    var button_choice = 'defaultBib';
+    function changeBibliography(choice) {
+        // 隐藏所有元素
+        document.getElementById("defaultBib").style.display = "none";
+        document.getElementById("dataCentricBib").style.display = "none"; 
+        document.getElementById("MLsystmeBib").style.display = "none";
+        document.getElementById("GraphMLBib").style.display = "none";
+        document.getElementById("AI4scienceBib").style.display = "none";
+        document.getElementById("AI4industryBib").style.display = "none";
+        document.getElementById("DatabaseBib").style.display = "none";
+        document.getElementById("AutoMLBib").style.display = "none";
+        // 显示选中元素
+        document.getElementById(choice).style.display = "block";
     }
 </script>
