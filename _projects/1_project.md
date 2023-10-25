@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Angel
 description: A high-performance distributed machine learning and graph computing platform
-img: assets/img/projects/12.jpg
+img: assets/img/projects/angel.jpg
 importance: 1
 category: System
 redirect: "https://github.com/Angel-ML/angel"
