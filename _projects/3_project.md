@@ -5,6 +5,7 @@ description: A high-performance distributed deep learning system.
 img: assets/img/projects/hetu.jpg
 importance: 3
 category: System
+redirect: "https://github.com/PKU-DAIR/Hetu"
 giscus_comments: false
 ---
 
