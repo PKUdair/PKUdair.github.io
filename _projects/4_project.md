@@ -5,6 +5,7 @@ description: A scalable graph learning system for extremely large graphs.
 img: assets/img/projects/sgl.jpg
 importance: 4
 category: System
+redirect: "https://github.com/PKU-DAIR/SGL"
 giscus_comments: false
 ---
 
