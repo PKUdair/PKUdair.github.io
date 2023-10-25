@@ -2,7 +2,7 @@
 layout: page
 title: SGL
 description: A scalable graph learning system for extremely large graphs
-img: assets/img/projects/sgl.jpg
+img: assets/img/projects/SGL.jpg
 importance: 4
 category: System
 redirect: "https://github.com/PKU-DAIR/SGL"
