@@ -69,7 +69,6 @@ nav_order: 7
 </div>
 
 <script>
-    /*
     var button_choice = 'defaultBib';
     function changeBibliography(choice) {
         // 根据需要修改 site.scholar.bibliography 的值
@@ -80,34 +79,79 @@ nav_order: 7
             document.getElementById("MLsystmeBib").style.display = "none";
             document.getElementById("GraphMLBib").style.display = "none";
             document.getElementById("AI4scienceBib").style.display = "none";
-        } else if (choice === 'physRevBib') {
-            document.getElementById("physRevBib").style.display = "block"; // 显示选中元素
+            document.getElementById("AI4industryBib").style.display = "none";
+            document.getElementById("DatabaseBib").style.display = "none";
+            document.getElementById("AutoMLBib").style.display = "none";
+        } else if (choice === 'MLsystemBib') {
+            document.getElementById("MLsystemBib").style.display = "block"; // 显示选中元素
             // 其余均隐藏
             document.getElementById("defaultBib").style.display = "none";
-            document.getElementById("dataCentricBib").style.display = "none";
+            document.getElementById("dataCentricBib").style.display = "none"; 
+            document.getElementById("GraphMLBib").style.display = "none";
+            document.getElementById("AI4scienceBib").style.display = "none";
+            document.getElementById("AI4industryBib").style.display = "none";
+            document.getElementById("DatabaseBib").style.display = "none";
+            document.getElementById("AutoMLBib").style.display = "none";
+        } else if (choice === 'GraphMLBib') {
+            document.getElementById("GraphMLBib").style.display = "block"; // 显示选中元素
+            // 其余均隐藏
+            document.getElementById("defaultBib").style.display = "none";
+            document.getElementById("dataCentricBib").style.display = "none"; 
+            document.getElementById("MLsystemBib").style.display = "none";
+            document.getElementById("AI4scienceBib").style.display = "none";
+            document.getElementById("AI4industryBib").style.display = "none";
+            document.getElementById("DatabaseBib").style.display = "none";
+            document.getElementById("AutoMLBib").style.display = "none";
+        } else if (choice === 'AI4scienceBib') {
+            document.getElementById("AI4scienceBib").style.display = "block"; // 显示选中元素
+            // 其余均隐藏
+            document.getElementById("defaultBib").style.display = "none";
+            document.getElementById("dataCentricBib").style.display = "none"; 
+            document.getElementById("GraphMLBib").style.display = "none";
+            document.getElementById("MLsystemBib").style.display = "none";
+            document.getElementById("AI4industryBib").style.display = "none";
+            document.getElementById("DatabaseBib").style.display = "none";
+            document.getElementById("AutoMLBib").style.display = "none";
+        } else if (choice === 'AI4industryBib') {
+            document.getElementById("AI4industryBib").style.display = "block"; // 显示选中元素
+            // 其余均隐藏
+            document.getElementById("defaultBib").style.display = "none";
+            document.getElementById("dataCentricBib").style.display = "none"; 
+            document.getElementById("GraphMLBib").style.display = "none";
+            document.getElementById("AI4scienceBib").style.display = "none";
+            document.getElementById("MLsystemBib").style.display = "none";
+            document.getElementById("DatabaseBib").style.display = "none";
+            document.getElementById("AutoMLBib").style.display = "none";
+        } else if (choice === 'DatabaseBib') {
+            document.getElementById("DatabaseBib").style.display = "block"; // 显示选中元素
+            // 其余均隐藏
+            document.getElementById("defaultBib").style.display = "none";
+            document.getElementById("dataCentricBib").style.display = "none"; 
+            document.getElementById("GraphMLBib").style.display = "none";
+            document.getElementById("AI4scienceBib").style.display = "none";
+            document.getElementById("AI4industryBib").style.display = "none";
+            document.getElementById("MLsystemBib").style.display = "none";
+            document.getElementById("AutoMLBib").style.display = "none";
+        } else if (choice === 'AutoMLBib') {
+            document.getElementById("AutoMLBib").style.display = "block"; // 显示选中元素
+            // 其余均隐藏
+            document.getElementById("defaultBib").style.display = "none";
+            document.getElementById("dataCentricBib").style.display = "none"; 
+            document.getElementById("GraphMLBib").style.display = "none";
+            document.getElementById("AI4scienceBib").style.display = "none";
+            document.getElementById("AI4industryBib").style.display = "none";
+            document.getElementById("DatabaseBib").style.display = "none";
+            document.getElementById("MLsystemBib").style.display = "none";
         } else { // defaultBib
             document.getElementById("defaultBib").style.display = "block"; // 显示选中元素
             // 其余均隐藏
-            document.getElementById("physRevBib").style.display = "none";
-            document.getElementById("dataCentricBib").style.display = "none";
+            document.getElementById("AutoMLBib").style.display = "none";
+            document.getElementById("dataCentricBib").style.display = "none"; 
+            document.getElementById("GraphMLBib").style.display = "none";
+            document.getElementById("AI4scienceBib").style.display = "none";
+            document.getElementById("AI4industryBib").style.display = "none";
+            document.getElementById("DatabaseBib").style.display = "none";
+            document.getElementById("MLsystemBib").style.display = "none";
         }
-    }
-    */ 
-</script>
-
-<script>
-    var button_choice = 'defaultBib';
-    function changeBibliography(choice) {
-        // 隐藏所有元素
-        document.getElementById("defaultBib").style.display = "none";
-        document.getElementById("dataCentricBib").style.display = "none"; 
-        document.getElementById("MLsystmeBib").style.display = "none";
-        document.getElementById("GraphMLBib").style.display = "none";
-        document.getElementById("AI4scienceBib").style.display = "none";
-        document.getElementById("AI4industryBib").style.display = "none";
-        document.getElementById("DatabaseBib").style.display = "none";
-        document.getElementById("AutoMLBib").style.display = "none";
-        // 显示选中元素
-        document.getElementById("AutoMLBib").style.display = "block";
     }
 </script>
