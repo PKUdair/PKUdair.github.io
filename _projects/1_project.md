@@ -1,10 +1,11 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+description: A high-performance distributed machine learning and graph computing platform
+img: assets/img/projects/12.jpg
 importance: 1
 category: System
+redirect: "https://github.com/Angel-ML/angel"
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
