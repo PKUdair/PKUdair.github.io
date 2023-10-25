@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: Mindware
+description: An efficient open-source system for AutoML
+img: assets/img/projects/mindware.jpg
+importance: 5
+redirect: "https://github.com/PKU-DAIR/mindware"
 category: Paper Codes
 ---
 
