@@ -11,7 +11,9 @@ nav_order: 9
 ---
 - **参加会议**:
    - 2023字节跳动奖学金颁奖现场
-     ![avatar](assets/img/Posts/1013/2.jpg)
+     <p align="center">
+      <img src="/assets/img/Posts/1013/2.jpg" width="30%"> 
+      </p>
 
 
   
