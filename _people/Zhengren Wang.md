@@ -4,7 +4,7 @@ name: Zhengren Wang
 mail: start in 2023
 description: Master Student
 img: assets/img/DAIR/wangzhenren.jpg
-importance: 4
+importance: 11
 category: Master Students
 redirect: "https://mi-iro.github.io/"
 related_publications: einstein1956investigations, einstein1950meaning
