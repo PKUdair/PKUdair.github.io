@@ -2,9 +2,9 @@
 layout: page
 name: Keshi Zhao
 mail: start in 2023
-description: Master Student 
+description: Data-centric ML
 img: assets/img/DAIR/zhaokeshi.jpg
-importance: 3
+importance: 12
 category: Master Students
 related_publications: einstein1956investigations, einstein1950meaning
 ---
