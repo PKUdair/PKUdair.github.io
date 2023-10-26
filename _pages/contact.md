@@ -2,13 +2,17 @@
 layout: page
 permalink: /contact/
 title: Contact
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 11
 ---
 
-Center of Machine Learning Research
+**School of Computer Science, Peking University**
 
-Courtyard No.6, Jingyuan
+**Address**: School of Computer Science, Peking University, Beijing, China 100871
 
-PKU, Beijing, China
+**Phone**: +86 10 62765821 (Office) ; +86 10 62765822 (Fax)
+
+**Office**: 1630, Science BLK 1
+
+**E-mail**: bin.cui@pku.edu.cn
