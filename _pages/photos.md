@@ -7,6 +7,20 @@ nav: true
 nav_order: 9
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+2023
+---
++ **参加会议**:
+  <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+         {% include figure.html path="assets/img/Posts/1013/2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    2023字节跳动奖学金颁奖现场.
+</div>
 
-Organize your courses by years, topics, or universities, however you like!
+
+
++ **参加论坛**:
+
++ **实验室团建**:  
