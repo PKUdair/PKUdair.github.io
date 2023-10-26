@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+DAIR实验室4篇论文入选数据库顶会VLDB‘2023！
