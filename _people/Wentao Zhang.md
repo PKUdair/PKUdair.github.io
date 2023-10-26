@@ -3,7 +3,7 @@ layout: page
 name: Wentao Zhang
 mail: wentao.zhang@pku.edu.cn
 description: Assistant Professor
-img: assets/img/DAIR/wentao-smile.jpg
+img: assets/img/DAIR/wentao-smile2.jpg
 importance: 1
 category: Faculties
 redirect: "https://zwt233.github.io"
