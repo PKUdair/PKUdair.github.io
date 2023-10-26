@@ -175,7 +175,7 @@ collections:
     permalink: /people/:path/
   courses:
     output: true
-    permalink: /courses/:path
+    permalink: /courses/:path/
 
 announcements:
   enabled: true
