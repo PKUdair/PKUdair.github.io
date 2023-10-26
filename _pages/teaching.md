@@ -17,6 +17,15 @@ to write a [thesis](#theses) with us or to join our lab.
 
 ## Courses
 
+{% include courses.html past='false' %}
+
+<a data-toggle="collapse" href="#pastCourses" role="button">
+    <i class="fas fa-chevron-down"></i> Show Past Courses
+</a>
+
+<div class="collapse" id="pastCourses">
+      {% include courses.html past='true' %}
+</div>
 
 
 ## Theses
