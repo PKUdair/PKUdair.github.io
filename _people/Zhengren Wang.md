@@ -2,7 +2,7 @@
 layout: page
 name: Zhengren Wang
 mail: start in 2023
-description: Master Student
+description: Data-centric ML
 img: assets/img/DAIR/wangzhenren.jpg
 importance: 11
 category: Master Students
