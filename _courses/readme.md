@@ -1,1 +1,1 @@
-These are the coursed of the DAIR lab.
+These are the courses of the DAIR lab.
