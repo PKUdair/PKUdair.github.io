@@ -6,6 +6,7 @@ title: 计算概论（Introduction of Computing)
 university: Peking University
 semester: Fall&nbsp;2023
 past: false
+related_posts: false
 external_page: https://cuibinpku.github.io/teaching.html
 ---
 
