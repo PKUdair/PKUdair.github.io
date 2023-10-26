@@ -2,7 +2,7 @@
 layout: page
 name: Yunteng Geng
 mail: start in 2023
-description: Master Student
+description: Data-centric ML, AI4Science
 img: assets/img/ytgeng.jpg
 importance: 10
 category: Master Students
