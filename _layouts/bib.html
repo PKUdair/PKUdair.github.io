@@ -149,7 +149,10 @@
           {%- endif %}
           {%- if entry.ccfa %}
             <a class="btn btn-sm z-depth-0" role="button">CCF-A</a>
-          {% endif %}
+          {%- endif %}
+          {%- if entry.doi %}
+            <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+          {%- endif %}
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
           {%- endif %}
