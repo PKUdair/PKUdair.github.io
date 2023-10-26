@@ -6,6 +6,6 @@ description: Data-centric ML
 img: assets/img/DAIR/qinyanzhao.jpg
 importance: 13
 category: PhD Students
-redirect: "https://blog.spiritedawaycn.top/2020/11/17/About-me/"
+redirect: "https://dada-qin.github.io/"
 related_publications: einstein1956investigations, einstein1950meaning
 ---
