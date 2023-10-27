@@ -20,16 +20,16 @@ Data-centric ML Research
 ---
  - 简介
    <p align="left">
-      <img src="/assets/img/sources/dcml/1.jpg" width="50%"> 
+      <img src="/assets/img/sources/dcml/1.jpg" width="80%"> 
       </p>
    <p align="left">
-      <img src="/assets/img/sources/dcml/2.jpg" width="50%"> 
+      <img src="/assets/img/sources/dcml/2.jpg" width="80%"> 
       </p>
    <p align="left">
-      <img src="/assets/img/sources/dcml/3.jpg" width="50%"> 
+      <img src="/assets/img/sources/dcml/3.jpg" width="80%"> 
       </p>
    <p align="left">
-      <img src="/assets/img/sources/dcml/4.jpg" width="50%"> 
+      <img src="/assets/img/sources/dcml/4.jpg" width="80%"> 
       </p>
  - Github Repos 
     - [awesome-data-centric-ai-A](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai)
