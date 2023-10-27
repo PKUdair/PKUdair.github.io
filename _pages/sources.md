@@ -35,7 +35,7 @@ Data-centric ML Research
     - [GraphSAGE论文](https://arxiv.org/abs/1706.02216)
     - [博客讲解](https://cloud.tencent.com/developer/article/1400504)
     - [规范代码](https://pkudair.github.io/)
-   - Conferences
+  - Conferences
     - [DMLR](https://data.mlr.press/)
 
 
