@@ -35,9 +35,16 @@ Data-centric ML Research
     - [GraphSAGE论文](https://arxiv.org/abs/1706.02216)
     - [博客讲解](https://cloud.tencent.com/developer/article/1400504)
     - [规范代码](https://pkudair.github.io/)
+   - Conferences
+    - [DMLR](https://data.mlr.press/)
+
 
 ML System Research
 ---
 
 AutoML Research
 ---
+
+每周组会分享Slides
+---
++ **10.20-张文涛**: How to do Research? [[Slides](https://pkudair.github.io/)] 
